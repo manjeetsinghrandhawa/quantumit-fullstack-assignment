@@ -4,9 +4,9 @@ import Template from "../components/core/Auth/Template"
 function Signup() {
   return (
     <Template
-      title="Join the millions learning to code with Eduspark for free"
-      description1="Build skills for today, tomorrow, and beyond."
-      description2="Education to future-proof your career."
+      title="Sign up page"
+      description1="Register yourself to get started."
+      description2="Dashboard is waiting for you!"
       image={signupImg}
       formType="signup"
     />
